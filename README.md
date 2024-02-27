@@ -13,8 +13,8 @@ This is a to-list to keep track of tasks to be completed.
 
 
 ### Links
-- Github repo URL: (https://github.com/Shruthi-10/word-game-shruthi)
-- Live Site URL: (https://github.com/Shruthi-10/todo-list)
+- Github repo URL: (https://github.com/Shruthi-10/todo-list)
+- Live Site URL: (https://shruthi-10.github.io/todo-list/)
 
 
 ## My process
